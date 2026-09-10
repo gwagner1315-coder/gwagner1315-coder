@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Gavin Wagner 👋
 
-<!--
-**gwagner1315-coder/gwagner1315-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second year student at Baldwin Wallace studying Finance and Business administration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing two bachelors degrees in Finance and Business Administration at Baldwin Wallace (Expected Graduation: 2028)
+* 🔭 **Current Focus:** Learning to code in MIS
+* 🌱 **Currently Building:** Websites with pythonanywhere
+* 💡 **Interests:** I love to Golf, fish, and hunt. I enjoy 70s jam band rock
+* ⚡ **Fun Fact:** I play basketball in college
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **Welcome WebApp** | WebApp built on PythonAnywhere using [OpenAI] | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/GavinWagner](https://linkedin.com/in/your-profile)
+* **Email:** [gwagner25@bw.edu](mailto:your.email@university.edu)
